@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ozirelag
-- 👀 I’m interested in ... wireless, networking, electronics, robotics, machines and anything with a motor or that can shoot something 
+- 👀 I’m interested in ... cryptocurrency, AI/ML, wireless, networking, electronics, robotics, machines and anything with a motor or that can shoot something 
 - 🌱 I’m currently learning ... AI integrated manufacturing bridging several 3D CAM techs with generative AI to hopefully make creating cool stuff simple as the PCR did for chemistry  
 - 💞️ I’m looking to collaborate on ... something that can help people have fun and make money OR top secrect mil/gov type work. 
 - 📫 How to reach me ... 
